@@ -108,10 +108,8 @@ acknowledgements: ""
   </div> -->
 </div>
 
-<div class="row">
 <div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>Schedule</h2>
     <h2>Schedule TBD</h2>
   </div>
 </div>
@@ -173,7 +171,6 @@ acknowledgements: ""
 -->
 
 <br>
-<div class="row">
 <div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Speakers</h2>
