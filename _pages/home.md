@@ -126,31 +126,31 @@ acknowledgements: ""
       <tbody>
         <tr>
           <td>Welcome and Introduction</td>
-          <td>1:45pm - 2:00pm</td>
+          <td>1:30pm - 1:45pm</td>
         </tr>
         <tr>
           <td>Invited Talk 1: Jitendra Malik, <i>Seeing while moving and moving while seeing in a 3D world</i></td>
-          <td>2:00pm - 2:30pm</td>
+          <td>1:45pm - 2:15pm</td>
         </tr>
         <tr>
           <td>Winner Talk 1 (MinkowskiNet / Chris Choy) </td>
-          <td>2:30pm - 2:45pm</td>
+          <td>2:15pm - 2:30pm</td>
         </tr>
         <tr>
           <td>Winner Talk 2 (joint point-based / Hung-Yueh Chiang) </td>
-          <td>2:45pm - 3:00pm</td>
+          <td>2:30pm - 2:45pm</td>
         </tr>
         <tr>
           <td>Winner Talk 3 (MTML / Jean Lahoud) </td>
-          <td>3:00pm - 3:15pm</td>
-        </tr>
-        <tr>
-          <td>Winner Talk 4 (PanopticFusion / Gaku Narita) </td>
-          <td>3:15pm - 3:30pm</td>
+          <td>2:45pm - 3:00pm</td>
         </tr>
         <tr>
           <td>Break and poster session</td>
-          <td>3:30pm - 4:00pm</td>
+          <td>3:00pm - 3:45pm</td>
+        </tr>
+        <tr>
+          <td>Winner Talk 4 (PanopticFusion / Gaku Narita) </td>
+          <td>3:45pm - 4:00pm</td>
         </tr>
         <tr>
           <td>Invited Talk 2: Leo Guibas, <i>Deep Learning on 3D Point Clouds</i></td>
