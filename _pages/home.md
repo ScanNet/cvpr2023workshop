@@ -114,7 +114,7 @@ acknowledgements: ""
   </div>
 </div>
 
-<!--
+<!-- 
 <div class="row">
   <div class="col-xs-12">
     <h2>Schedule</h2>
@@ -129,19 +129,15 @@ acknowledgements: ""
           <td>1:30pm - 1:45pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 1: Jitendra Malik, <i>Seeing while moving and moving while seeing in a 3D world</i></td>
+          <td>Invited Talk 1: Peter Wonka</td>
           <td>1:45pm - 2:15pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 1 (MinkowskiNet / Chris Choy) </td>
-          <td>2:15pm - 2:30pm</td>
+          <td>Invited Talk 2: Tom Funkhouser</td>
+          <td>2:15pm - 2:45pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 2 (joint point-based / Hung-Yueh Chiang) </td>
-          <td>2:30pm - 2:45pm</td>
-        </tr>
-        <tr>
-          <td>Winner Talk 3 (MTML / Jean Lahoud) </td>
+          <td>Winner Talk 1 </td>
           <td>2:45pm - 3:00pm</td>
         </tr>
         <tr>
@@ -149,15 +145,15 @@ acknowledgements: ""
           <td>3:00pm - 3:45pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 4 (PanopticFusion / Gaku Narita) </td>
+          <td>Winner Talk 2 </td>
           <td>3:45pm - 4:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 2: Leo Guibas, <i>Deep Learning on 3D Point Clouds</i></td>
+          <td>Invited Talk 2: Georgia Gkioxari</td>
           <td>4:00pm - 4:30pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 3: Denver Dash, <i>Deep 3D: The New Frontier of Computer Vision</i></td>
+          <td>Invited Talk 3: Leo Guibas</td>
           <td>4:30pm - 5:00pm</td>
         </tr>
         <tr>
@@ -168,8 +164,8 @@ acknowledgements: ""
     </table>
   </div>
 </div>
--->
-
+ -->
+ 
 <br>
 <div class="row" id="speakers">
   <div class="col-xs-12">
@@ -177,7 +173,6 @@ acknowledgements: ""
   </div>
 </div><br>
 
-<!--
 <div class="row">
   <div class="col-md-12">
     <a href="https://geometry.stanford.edu/member/guibas/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/leo.png" | prepend:site.baseurl }}"></a>
@@ -189,22 +184,30 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://people.eecs.berkeley.edu/~malik/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jitendra.png" | prepend:site.baseurl }}"></a>
+    <a href="https://gkioxari.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/georgia_gkioxari.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://people.eecs.berkeley.edu/~malik/">Jitendra Malik</a></b> received the B.Tech degree in Electrical Engineering from Indian Institute of Technology, Kanpur in 1980 and the PhD degree in Computer Science from Stanford University in 1985. In January 1986, he joined the university of California at Berkeley, where he is currently the Arthur J. Chick Professor in the Department of Electrical Engineering and Computer Sciences. He is also on the faculty of the department of Bioengineering, and the Cognitive Science and Vision Science groups. During 2002-2004 he served as the Chair of the Computer Science Division, and as the Department Chair of EECS during 2004-2006 as well as 2016-2017. Since January 2018, he is also Research Director and Site Lead of Facebook AI Research in Menlo Park.
+      <b><a href="https://gkioxari.github.io/">Georgia Gkioxari</a></b> is an Assistant Professor of Computing + Mathematical Sciences at Caltech. From 2016 to 2022, she was a research scientist at FAIR. She received her PhD from UC Berkeley, advised by Jitendra Malik. She received her bachelors in ECE at NTUA in Athens, Greece. Professor Gkioxari's work has been recognized by various awards, including the PAMI Young Researcher Award (2021), as well as the PAMI Mark Everingham Award (2021) for the Detectron Library Suite. She has also been named one of 30 influential women advancing AI in 2019 by ReWork, and nominated for the Women in AI Awards in 2020 by VentureBeat.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://occipital.com/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/denver.png" | prepend:site.baseurl }}"></a>
+    <a href="https://peterwonka.net/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/peter_wonka.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://occipital.com/">Denver Dash</a></b> is the Director of Machine Learning at Occipital, where he focuses on combining machine learning with geometric vision to solve problems in 3d perception. In 2014 he became a Principal Engineer and approximately employee number 80 at Magic Leap, where he grew the Machine Learning team from scratch. In 2016 he became the Director of Gesture Recognition and led the development of the hand tracking system that was put into production for Magic Leap One. Prior to Magic Leap, Denver was a Sr. Research Scientist at the Intel Research lab at Carnegie Mellon University, where he served as adjunct faculty at the Robotics Institute, developing novel multi-modal approaches for computer vision and generative models for causal reasoning.
+      <b><a href="https://peterwonka.net/">Peter Wonka</a></b> is a professor of Computer Science Program (CS) at King Abdullah University of Science and Technology (KAUST). He is also the Associate Director of the Visual Computing Center (VCC) at KAUST. He holds an MS in Computer Science and in Urban Planning, and received his Ph.D. in Computer Science from the Vienna University of Technology. Before joining KAUST as a Professor of Computer Science, he has been a Postdoctoral Researcher, Georgia Institute of Technology, USA, and Associate Professor, Arizona State University, USA. Professor Wonka's main research interests lie in deep learning, computer vision, and computer graphics. He is also interested in related areas such as visualization, image processing, remote sensing, data mining, and machine learning.
     </p>
   </div>
 </div><br>
--->
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://www.cs.princeton.edu/~funk/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/tom_funkhouser.png" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://www.cs.princeton.edu/~funk/">Tom Funkhouser</a></b> is a principal research scientist at Google and a Professor Emeritus at Princeton University.   His research interests include 3D computer vision and computer graphics, with a current focus on 3D scene understanding.   He is an ACM Fellow, a member of the ACM SIGGRAPH Academy, and a recipient of the ACM SIGGRAPH Achievement Award, Sloan Foundation Fellowship, NSF Career Award, two Excellence in Teaching Awards, and several best paper awards.
+    </p>
+  </div>
+</div><br>
   
 <div class="row">
   <div class="col-xs-12">
