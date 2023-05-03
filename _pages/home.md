@@ -133,7 +133,7 @@ acknowledgements: ""
           <td>1:45pm - 2:15pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 2: Tom Funkhouser</td>
+          <td>Invited Talk 2: Leo Guibas</td>
           <td>2:15pm - 2:45pm</td>
         </tr>
         <tr>
@@ -153,7 +153,7 @@ acknowledgements: ""
           <td>4:00pm - 4:30pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 3: Leo Guibas</td>
+          <td>Invited Talk 3: Tom Funkhouser</td>
           <td>4:30pm - 5:00pm</td>
         </tr>
         <tr>
@@ -177,7 +177,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://geometry.stanford.edu/member/guibas/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/leo.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://geometry.stanford.edu/member/guibas/">Leonidas J. Guibas</a></b> heads the Geometric Computation group in the Computer Science Department of Stanford University.  He is acting director of the Artificial Intelligence Laboratory and member of the Computer Graphics Laboratory, the Institute for Computational and Mathematical Engineering (iCME) and the Bio-X program.  His research centers on algorithms for sensing, modeling, reasoning, rendering, and acting on the physical world. Professor Guibas' interests span computational geometry, geometric modeling, computer graphics, computer vision, sensor networks, robotics, and discrete algorithms --- all areas in which he has published and lectured extensively.
+      <b><a href="https://geometry.stanford.edu/member/guibas/">Leonidas Guibas</a></b> is the Paul Pigott Professor of Computer Science (and by courtesy), Electrical Engineering at Stanford University, where he heads the Geometric Computation group.  Dr. Guibas obtained his Ph.D. from Stanford University under the supervision of Donald Knuth. His main subsequent employers were Xerox PARC, DEC/SRC, MIT, and Stanford. He is a member and past acting director of the Stanford Artificial Intelligence Laboratory and a member of the Computer Graphics Laboratory, the Institute for Computational and Mathematical Engineering (iCME), and the Bio-X program. Dr. Guibas has been elected to the US National Academy of Engineering, the US National Academy of Sciences, the American Academy of Arts and Sciences and is an ACM Fellow, an IEEE Fellow, and winner of the ACM Allen Newell Award and the ICCV Helmholtz prize.
     </p>
   </div>
 </div><br>
