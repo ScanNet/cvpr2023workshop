@@ -114,7 +114,6 @@ acknowledgements: ""
   </div>
 </div>
 
-<!-- 
 <div class="row">
   <div class="col-xs-12">
     <h2>Schedule</h2>
@@ -129,7 +128,7 @@ acknowledgements: ""
           <td>1:30pm - 1:45pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 1: Peter Wonka</td>
+          <td>Invited Talk 1: Peter Wonka, <i>Data Structures for Generative Modeling of 3D shapes</i></td>
           <td>1:45pm - 2:15pm</td>
         </tr>
         <tr>
@@ -164,7 +163,6 @@ acknowledgements: ""
     </table>
   </div>
 </div>
- -->
  
 <br>
 <div class="row" id="speakers">
@@ -195,7 +193,7 @@ acknowledgements: ""
   <div class="col-md-12">
     <a href="https://peterwonka.net/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/peter_wonka.png" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://peterwonka.net/">Peter Wonka</a></b> is a professor of Computer Science Program (CS) at King Abdullah University of Science and Technology (KAUST). He is also the Associate Director of the Visual Computing Center (VCC) at KAUST. He holds an MS in Computer Science and in Urban Planning, and received his Ph.D. in Computer Science from the Vienna University of Technology. Before joining KAUST as a Professor of Computer Science, he has been a Postdoctoral Researcher, Georgia Institute of Technology, USA, and Associate Professor, Arizona State University, USA. Professor Wonka's main research interests lie in deep learning, computer vision, and computer graphics. He is also interested in related areas such as visualization, image processing, remote sensing, data mining, and machine learning.
+      <b><a href="https://peterwonka.net/">Peter Wonka</a></b> is a Full Professor in Computer Science at King Abdullah University of Science and Technology (KAUST) and Interim Director of the Visual Computing Center (VCC). Peter Wonka received his doctorate from the Technical University of Vienna in computer science. Additionally, he received a Masters of Science in Urban Planning from the same institution. After his PhD, Dr. Wonka worked as a postdoctoral researcher at the Georgia Institute of Technology and as faculty at Arizona State University. His research publications tackle various topics in computer vision, computer graphics, and machine learning. The current research focus is on deep learning, generative models, and 3D shape analysis and reconstruction..
     </p>
   </div>
 </div><br>
