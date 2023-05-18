@@ -142,7 +142,7 @@ acknowledgements: ""
           <td>3:45pm - 4:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 2: Georgia Gkioxari</td>
+          <td>Invited Talk 2: Georgia Gkioxari, <i>The Many Challenges and Some Solutions for 3D Object Recognition from Images</i></td>
           <td>4:00pm - 4:30pm</td>
         </tr>
         <tr>
