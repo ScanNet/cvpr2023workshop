@@ -122,31 +122,31 @@ acknowledgements: ""
           <td>1:30pm - 1:45pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 1: Peter Wonka, <i>Data Structures for Generative Modeling of 3D shapes</i></td>
+          <td>Invited Talk: Peter Wonka, <i>Data Structures for Generative Modeling of 3D shapes</i></td>
           <td>1:45pm - 2:15pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 2: Leo Guibas</td>
+          <td>Invited Talk: Leo Guibas</td>
           <td>2:15pm - 2:45pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 1 </td>
+          <td>Winner Talk: Yukang Chen, <i>LargeKernel3D</i> </td>
           <td>2:45pm - 3:00pm</td>
         </tr>
         <tr>
-          <td>Break and poster session</td>
+          <td>Break</td>
           <td>3:00pm - 3:45pm</td>
         </tr>
         <tr>
-          <td>Winner Talk 2 </td>
+          <td>Winner Talk: Khoi Nguyen, <i>ISBNet</i> </td>
           <td>3:45pm - 4:00pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 2: Georgia Gkioxari, <i>The Many Challenges and Some Solutions for 3D Object Recognition from Images</i></td>
+          <td>Invited Talk: Georgia Gkioxari, <i>The Many Challenges and Some Solutions for 3D Object Recognition from Images</i></td>
           <td>4:00pm - 4:30pm</td>
         </tr>
         <tr>
-          <td>Invited Talk 3: Tom Funkhouser</td>
+          <td>Invited Talk: Tom Funkhouser</td>
           <td>4:30pm - 5:00pm</td>
         </tr>
         <tr>
