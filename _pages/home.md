@@ -134,8 +134,12 @@ acknowledgements: ""
           <td>2:45pm - 3:00pm</td>
         </tr>
         <tr>
+          <td>Winner Talk: Min Sun, <i>Data Efficient 3D Learner </i> </td>
+          <td>3:00pm - 3:15pm</td>
+        </tr>
+        <tr>
           <td>Break</td>
-          <td>3:00pm - 3:45pm</td>
+          <td>3:15pm - 3:45pm</td>
         </tr>
         <tr>
           <td>Winner Talk: Khoi Nguyen, <i>ISBNet</i> </td>
