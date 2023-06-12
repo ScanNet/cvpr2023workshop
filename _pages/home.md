@@ -126,7 +126,7 @@ acknowledgements: ""
           <td>1:45pm - 2:15pm</td>
         </tr>
         <tr>
-          <td>Invited Talk: Leo Guibas</td>
+          <td>Invited Talk: Leo Guibas, <i>Neural Object and Scene Representations in the Sparse Data Regime</i></td>
           <td>2:15pm - 2:45pm</td>
         </tr>
         <tr>
