@@ -150,7 +150,7 @@ acknowledgements: ""
           <td>4:00pm - 4:30pm</td>
         </tr>
         <tr>
-          <td>Invited Talk: Tom Funkhouser</td>
+          <td>Invited Talk: Tom Funkhouser, <i>Open Vocabulary 3D Scene Understanding Using Large Visual Language Models</i></td>
           <td>4:30pm - 5:00pm</td>
         </tr>
         <tr>
