@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>ScanNet Indoor Scene Understanding Challenge</h1></center>
     <center><h2>CVPR 2023 Workshop, Vancouver, Canada</h2></center>
-    <center>June 19, 2023, Afternoon</center> <!-- location-->
+    <center>June 19, 2023, Afternoon, West 205-206</center> <!-- location-->
   </div>
 </div>
 
